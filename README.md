@@ -5,8 +5,9 @@
 - [x] arrow functions
 - [x] use of this keyword(lexical scoping)
 - [x] template literals
-- [ ] spread & rest prarameter
-- [ ] array & object destructure
-- [ ] property shorthand
+- [x] spread & rest prarameter
+- [x] array & object destructure
+- [x] property shorthand
 - [ ] module import & export
 - [x] Class in Javascript
+- [ ] constants - variables vs objects
